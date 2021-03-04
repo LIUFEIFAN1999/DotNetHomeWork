@@ -83,7 +83,7 @@ namespace WindowsForms_Calculator
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Chartreuse;
             this.label1.Location = new System.Drawing.Point(262, 9);
             this.label1.Name = "label1";
