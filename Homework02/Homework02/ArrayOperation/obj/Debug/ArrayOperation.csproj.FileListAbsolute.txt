@@ -1,0 +1,7 @@
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\bin\Debug\ArrayOperation.exe.config
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\bin\Debug\ArrayOperation.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\bin\Debug\ArrayOperation.pdb
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\obj\Debug\ArrayOperation.csprojAssemblyReference.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\obj\Debug\ArrayOperation.csproj.CoreCompileInputs.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\obj\Debug\ArrayOperation.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\ArrayOperation\obj\Debug\ArrayOperation.pdb

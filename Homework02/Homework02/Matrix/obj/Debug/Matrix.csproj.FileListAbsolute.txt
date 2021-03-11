@@ -1,0 +1,7 @@
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\bin\Debug\Matrix.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\bin\Debug\Matrix.pdb
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\obj\Debug\Matrix.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Matrix\obj\Debug\Matrix.pdb

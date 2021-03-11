@@ -1,0 +1,6 @@
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Prime03\bin\Debug\Prime03.exe.config
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Prime03\bin\Debug\Prime03.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Prime03\bin\Debug\Prime03.pdb
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Prime03\obj\Debug\Prime03.csproj.CoreCompileInputs.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Prime03\obj\Debug\Prime03.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework02\Homework02\Prime03\obj\Debug\Prime03.pdb
