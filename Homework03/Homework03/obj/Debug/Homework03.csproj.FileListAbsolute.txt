@@ -1,0 +1,7 @@
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\bin\Debug\Homework03.exe.config
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\bin\Debug\Homework03.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\bin\Debug\Homework03.pdb
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\obj\Debug\Homework03.csprojAssemblyReference.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\obj\Debug\Homework03.csproj.CoreCompileInputs.cache
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\obj\Debug\Homework03.exe
+C:\Users\19352\source\repos\DotNetHomework1\Homework03\Homework03\obj\Debug\Homework03.pdb
